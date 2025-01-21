@@ -1,0 +1,31 @@
+<style>
+  .custom-layout {
+  display: flex;
+  height: 1419.5px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  position: relative;
+  width: 100%;
+}
+
+
+
+.box-right {
+  background-color: transparent;
+  position: relative;
+}
+
+.triangle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-left: 1000px solid transparent;
+  border-top: 1590px solid #d9d9d9;
+}
+}</style>
